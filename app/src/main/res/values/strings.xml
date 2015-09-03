@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Search</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Search">Search</string>
+    <string name="title">Title</string>
+    <string name="url">www.google.com</string>
+</resources>
